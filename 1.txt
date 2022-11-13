@@ -1,2 +1,4 @@
+git add .
+
 Hola
 adios 
